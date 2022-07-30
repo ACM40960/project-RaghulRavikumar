@@ -35,7 +35,7 @@
   <h3 align="center">BREAST CANCER DETECTION</h3>
 
   <p align="center">
-    Prediction Of Breast Cancer Using Histopathology Image
+    "Prediction Of Breast Cancer Using Histopathology Image" <br> By <br> Raghul Ravikumar & Sukesh Perla <br>
     <br />
     <a href="https://github.com/ACM40960/project-RaghulRavikumar"><strong>Explore the docs »</strong></a>
     <br />
@@ -326,6 +326,9 @@ Below are the list of websites we found useful while crating this application!
 * [Font Awesome](https://fontawesome.com)
 * [Streamlit Documentation](https://docs.streamlit.io/)
 
+<!-- Thank You -->
+## Thank You
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -359,3 +362,5 @@ Below are the list of websites we found useful while crating this application!
 [numpy-url]:https://numpy.org/
 [pandas]:https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
 [pandas-url]:https://pandas.pydata.org/
+
+
