@@ -40,7 +40,7 @@
     <a href="https://github.com/ACM40960/project-RaghulRavikumar"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use">View Demo</a>
+    <a target="_blank" rel="noopener noreferrer" href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use">View Demo</a>
     ·
     <a href="https://github.com/ACM40960/project-RaghulRavikumar/issues">Report Bug</a>
     ·
