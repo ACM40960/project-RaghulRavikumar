@@ -32,7 +32,7 @@
     <img src="Images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">BREAST CACNER DETECTION</h3>
+  <h3 align="center">BREAST CANCER DETECTION</h3>
 
   <p align="center">
     Prediction of Breast Cancer using histopathology image
