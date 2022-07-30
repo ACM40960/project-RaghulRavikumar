@@ -40,7 +40,7 @@
     <a href="https://github.com/ACM40960/project-RaghulRavikumar"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ACM40960/project-RaghulRavikumar/blob/main/Images/Demo.gif">View Demo</a>
+    <a href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use">View Demo</a>
     ·
     <a href="https://github.com/ACM40960/project-RaghulRavikumar/issues">Report Bug</a>
     ·
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com)
 
 A **Convolutional Neural Network**, also known as CNN or ConvNet, is a class of [neural networks](https://www.ibm.com/cloud/learn/neural-networks) that specializes in processing data that has a grid-like topology, such as an image. The benefits of deep learning in healthcare are plentiful – fast, efficient, accurate – but they don’t stop there. Even more benefits lie within the neural networks formed by multiple layers of `AI` and `ML` and their ability to learn. With the help of these great technologies, I have created a model that could **predict whether a person is malignant with Breast Cancer or not**.
 > [Breast cancer](https://my.clevelandclinic.org/health/diseases/3986-breast-cancer) is an uncontrolled growth of breast cells.  
@@ -208,7 +208,7 @@ More information about the model are given in the file
 To View as Web Application
 1. Launch Anaconda terminal as mentioned  <a href="#packages">here</a>
 2. Navigate to the location were the project is cloned using cd command
-3. Make sure `information.py` file is located and file structure is maintained
+3. Make sure `welcome.py` file is located and file structure is maintained
 4. Now use below command to host the application locally
 ```sh 
   streamlit run information.py
@@ -218,16 +218,16 @@ To View as Web Application
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Once the webpage is launched click on the [Predict](http://localhost:8501/Predict) tab
+Once the webpage is launched click on the [Predict](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/Predict) tab
 * Step 1: Fill the User Information (Not Mandatory)
 * Step 2: Upload The Image
 	* Step 2.1: Browse File to upload the histopathology image
-	* Step 2.2: You can also use sample image if you don't have any by selecting Use Sample Image
+	* Step 2.2: You can also use sample image from drop down list if you don't have any histopathalogy image for testing.
 * Step 3: Click "Run On This Image"
-* Step 4: Please Wait
-> You can see the result for the uploaded image
+* Step 4: Please Wait, Result with useful information will be displayed
 
-_For detailed steps with screenshot, please refer to the [How-To-Use](http://localhost:8501/How_To_Use)_
+
+_For detailed steps with screenshot, please refer to the [How-To-Use](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -278,9 +278,11 @@ This Application is currently not licensed and is free to use by everyone.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Raghul Ravikumar](https://www.linkedin.com/in/raghul0211/) - raghul0211@gmail.com
+Name - [Raghul Ravikumar](https://www.linkedin.com/in/raghul0211/) - raghul0211@gmail.com
 
 Project Link: [Breast Cancer Detection](https://github.com/ACM40960/project-RaghulRavikumar)
+
+Website Link: [Web Application](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -289,7 +291,7 @@ Project Link: [Breast Cancer Detection](https://github.com/ACM40960/project-Ragh
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Below are the list of websites we found useful while crating this application!
 
 * [Machine Learning](https://www.sciencedirect.com/science/article/pii/S2001037014000464)
 * [Breast Cancer Detection from thermogram](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262349#sec018)
@@ -314,7 +316,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/ACM40960/project-RaghulRavikumar/issues
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue
 [linkedin-url]: https://www.linkedin.com/in/raghul0211/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: Images/introduction.png
 [python]: https://img.shields.io/badge/Python_3.8-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [python-url]: https://www.python.org/
 [atom]: https://img.shields.io/badge/atom-000000?style=for-the-badge&logo=atom&logoColor=white&color=green
