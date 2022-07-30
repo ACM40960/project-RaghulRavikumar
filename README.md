@@ -29,10 +29,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Breast Cancer Detection</h3>
+  <h3 align="center">BREAST CACNER DETECTION</h3>
 
   <p align="center">
     Prediction of Breast Cancer using histopathology image
@@ -40,7 +40,7 @@
     <a href="https://github.com/ACM40960/project-RaghulRavikumar"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ACM40960/project-RaghulRavikumar">View Demo</a>
+    <a href="https://github.com/ACM40960/project-RaghulRavikumar/blob/main/Images/Demo.gif">View Demo</a>
     ·
     <a href="https://github.com/ACM40960/project-RaghulRavikumar/issues">Report Bug</a>
     ·
@@ -69,6 +69,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -229,6 +230,10 @@ Once the webpage is launched click on the [Predict](http://localhost:8501/Predic
 _For detailed steps with screenshot, please refer to the [How-To-Use](http://localhost:8501/How_To_Use)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- DEMO -->
+## Demo   
+![Video](https://github.com/ACM40960/project-RaghulRavikumar/blob/main/Images/Demo.gif)
 
 <!-- ROADMAP -->
 ## Roadmap
