@@ -238,14 +238,13 @@ _For detailed steps with screenshot, please refer to the [How-To-Use](http://loc
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Improve Accuracy of the Model (Current Accuracy at 90%)
+- [ ] Improve Accuracy of the Model (Current Accuracy at 92%)
 - [ ] Include Login Functionality
-- [ ] Verify User is Not Robot
+- [ ] Introduce Database to store user information
 - [ ] Fix [Issues](https://github.com/ACM40960/project-RaghulRavikumar/issues) if any  
-- [ ] Multi-language Support
-    - [ ] Hindi
-    - [ ] Spanish
-    - [ ] French
+- [ ] Mobile Application Development
+    - [ ] Android
+    - [ ] iOS
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
