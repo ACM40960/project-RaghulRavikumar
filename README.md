@@ -215,7 +215,7 @@ More information about the model are given in the file
 To View as Web Application
 1. Launch Anaconda terminal as mentioned  <a href="#packages">here</a>
 2. Navigate to the location were the project is cloned using cd command
-3. Make sure `welcome.py` file is located and file structure is maintained
+3. Make sure `Welcome.py` file is located and file structure is maintained
 
 ```markdown
 ├── src
@@ -235,7 +235,7 @@ To View as Web Application
 
 4. Now use below command to host the application locally
 ```sh 
-  streamlit run information.py
+  streamlit run Welcome.py
   ```
 
 
