@@ -179,7 +179,7 @@ pip install pytest-shutil
 pip3 install opencv-python
   ```
   ```sh 
-conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0python3 -m pip install tensorflow
+conda install tensorflow
 ```
 To Render with UI
 ```sh
