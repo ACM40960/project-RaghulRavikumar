@@ -35,7 +35,7 @@
   <h3 align="center">BREAST CANCER DETECTION</h3>
 
   <p align="center">
-    Prediction of Breast Cancer using histopathology image
+    Prediction Of Breast Cancer Using Histopathology Image
     <br />
     <a href="https://github.com/ACM40960/project-RaghulRavikumar"><strong>Explore the docs »</strong></a>
     <br />
@@ -81,14 +81,18 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 
+
+> **Note**
+> Click on the image to view website 🌐  
 
 [![Product Name Screen Shot][product-screenshot]](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com)
 
 A **Convolutional Neural Network**, also known as CNN or ConvNet, is a class of [neural networks](https://www.ibm.com/cloud/learn/neural-networks) that specializes in processing data that has a grid-like topology, such as an image. The benefits of deep learning in healthcare are plentiful – fast, efficient, accurate – but they don’t stop there. Even more benefits lie within the neural networks formed by multiple layers of `AI` and `ML` and their ability to learn. With the help of these great technologies, I have created a model that could **predict whether a person is malignant with Breast Cancer or not**.
 > [Breast cancer](https://my.clevelandclinic.org/health/diseases/3986-breast-cancer) is an uncontrolled growth of breast cells.  
- 
-Why Breast Cancer is dangerous:
+
+
+Why Breast Cancer is Dangerous ☢️:
 * 1 in 8 women who live to be age 70 will develop breast cancer in her lifetime.
 * Breast cancer is the second most common cancer in women in Ireland.
 * In 2020, there were 2.3 million women diagnosed with breast cancer and 685 000 deaths globally [WHO](https://www.who.int/news-room/fact-sheets/detail/breast-cancer)
@@ -99,7 +103,7 @@ But there is good news:
 * Breast Cancer's mortality rate has been **declining since 1989**
 * Women whose breast cancer is detected at an early stage have a **93 percent or higher survival rate**
 
-Based on the experimental results, the proposed model achieved 90% accuracy
+Based on the experimental results, the proposed model achieved 91.5% accuracy
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -198,17 +202,37 @@ pip install datetime
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Execution
-To Train The Model
+To Train The Model 
+```diff
+- ⚠️ It took approximately 4hrs to train all the images.
+```
 1. Open Anaconda Navigator
 2. Launch Jupyter Notebook Note: Please Install if require
-3. Upload "Second version.ipynb"
-4. Press Shift+Enter to run cells one by one
+3. Upload [Model.ipynb](https://github.com/ACM40960/project-RaghulRavikumar/blob/main/Model.ipynb)
+4. Press Shift+Enter to run cells one by one (Details intruction is also provided in the notebook itself)
 More information about the model are given in the file
 
 To View as Web Application
 1. Launch Anaconda terminal as mentioned  <a href="#packages">here</a>
 2. Navigate to the location were the project is cloned using cd command
 3. Make sure `welcome.py` file is located and file structure is maintained
+
+```markdown
+├── src
+    |
+    ├── MyApp
+    │   ├── Welcome.py
+    │   ├── Pages
+    │   |   ├── How_To_Use.py
+    │   |   ├── Predict.py
+    │   ├── Data
+    │   |   ├── data.csv
+    │   ├── Best Model
+    ├── Images
+    ├── Model.ipynb
+    ├── README.md
+```
+
 4. Now use below command to host the application locally
 ```sh 
   streamlit run information.py
@@ -238,7 +262,7 @@ _For detailed steps with screenshot, please refer to the [How-To-Use](https://na
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Improve Accuracy of the Model (Current Accuracy at 92%)
+- [ ] Improve Accuracy of the Model (Current Accuracy at 91.5%)
 - [ ] Include Login Functionality
 - [ ] Introduce Database to store user information
 - [ ] Fix [Issues](https://github.com/ACM40960/project-RaghulRavikumar/issues) if any  
@@ -322,7 +346,7 @@ Below are the list of websites we found useful while crating this application!
 [atom]: https://img.shields.io/badge/atom-000000?style=for-the-badge&logo=atom&logoColor=white&color=green
 [atom-url]: https://atom.io/
 [streamlit-url]:https://streamlit.io/
-[streamlit]:https://img.shields.io/badge/streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=red&color=black
+[streamlit]:https://img.shields.io/badge/streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=red&color=grey
 [anaconda]:https://img.shields.io/badge/anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=white&color=darkgreen
 [anaconda-url]:https://www.anaconda.com/
 [jupyter-url]:https://jupyter.org/
