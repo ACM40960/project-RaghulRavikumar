@@ -29,10 +29,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Breast Cancer Detection</h3>
+  <h3 align="center">BREAST CANCER DETECTION</h3>
 
   <p align="center">
     Prediction of Breast Cancer using histopathology image
@@ -40,7 +40,7 @@
     <a href="https://github.com/ACM40960/project-RaghulRavikumar"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ACM40960/project-RaghulRavikumar">View Demo</a>
+    <a href="https://github.com/ACM40960/project-RaghulRavikumar/blob/main/Images/Demo.gif">View Demo</a>
     ·
     <a href="https://github.com/ACM40960/project-RaghulRavikumar/issues">Report Bug</a>
     ·
@@ -69,6 +69,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -178,7 +179,7 @@ pip install pytest-shutil
 pip3 install opencv-python
   ```
   ```sh 
-conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0python3 -m pip install tensorflow
+conda install tensorflow
 ```
 To Render with UI
 ```sh
@@ -230,17 +231,20 @@ _For detailed steps with screenshot, please refer to the [How-To-Use](http://loc
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- DEMO -->
+## Demo   
+![Video](https://github.com/ACM40960/project-RaghulRavikumar/blob/main/Images/Demo.gif)
+
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Improve Accuracy of the Model (Current Accuracy at 90%)
+- [ ] Improve Accuracy of the Model (Current Accuracy at 92%)
 - [ ] Include Login Functionality
-- [ ] Verify User is Not Robot
+- [ ] Introduce Database to store user information
 - [ ] Fix [Issues](https://github.com/ACM40960/project-RaghulRavikumar/issues) if any  
-- [ ] Multi-language Support
-    - [ ] Hindi
-    - [ ] Spanish
-    - [ ] French
+- [ ] Mobile Application Development
+    - [ ] Android
+    - [ ] iOS
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
