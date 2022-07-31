@@ -203,7 +203,7 @@ pip install datetime
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Project Flow  
-![Video](https://github.com/ACM40960/project-RaghulRavikumar/blob/main/Images/flow.gif)
+![Video](https://github.com/ACM40960/project-RaghulRavikumar/blob/main/Images/project%20flow.gif)
 
 ### Execution
 To Train The Model 
